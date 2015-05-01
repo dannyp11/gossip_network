@@ -15,7 +15,7 @@ Input file gives:
 4-5
 4-6
 
-The first line (6) indicates the number of connections in this network. The following lines define these connections. i.e. 0 knows 1, 1 knows 0,2 and 4 etc.
+These lines define these connections. i.e. 0 knows 1, 1 knows 0,2 and 4, 2 knows 3, etc.
 
 The answer for this network is 2 hours (started at person 1)
 
